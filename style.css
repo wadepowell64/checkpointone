@@ -1,0 +1,85 @@
+
+body{
+  background-color: rgb(0, 0, 0);
+  font-family: 'EB Garamond', serif;
+  justify-content: center;
+}
+
+main{
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+.navbar-nav{
+  margin-left: 55em;
+}
+
+.card-titleone{
+  margin-top: 2em;
+  color: antiquewhite;
+  margin-bottom: 30pxem;
+}
+
+.card-bodyone{
+  margin-left: 3em;
+  width: 25em;
+}
+
+.form-groupone{
+  color: antiquewhite;
+  margin-right: 2em;
+}
+
+.floatingimagetext{
+  margin-top: 1em;
+  margin-left: 1em;
+  font-size: 5em;
+  color: antiquewhite;
+}
+
+.leftcolumn{
+  color: antiquewhite;
+  padding-left: 29px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+  padding-top: 20px;
+  background-color:  rgb(226, 102, 0);
+  border-radius: 5%;
+  margin-bottom: 1em;
+}
+
+.card-bodytwo{
+  height: 20em;
+  margin-left: 1em;
+  margin-right: 1em;
+}
+
+.cardside{
+  color: antiquewhite;
+  background-color: rgb(226, 102, 0);
+  margin-top: 20px;
+  margin-left: 4em;
+  margin-right: 4em;
+  border-radius: 4%;
+}
+
+.cardsidemiddle{
+  color: antiquewhite;
+  background-color: rgb(226, 102, 0);
+  margin-top: 20px;
+  margin-left: 2em;
+  border-radius: 4%;
+}
+
+.progress{
+  color: antiquewhite;
+}
+
+footer{
+  padding-left: 1em;
+  padding-right: 1em;
+  padding-top: 3em;
+  margin-top: 1em;
+  border-radius: 4%;
+}
+
